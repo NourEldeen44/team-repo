@@ -6,9 +6,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+<<<<<<< HEAD
         {/* { 1-NourEldeen AbdElaaty } */}
         <h1> NourEldeen AbdElaaty</h1>
         <Alaa />
+=======
+        <h1>Amr Elkoumy</h1>
+>>>>>>> amrElkoumy
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
