@@ -5,8 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {/* Please Add your name in a h1 here */}
-        {/* 1- */}
+        <h1>Amr Elkoumy</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
