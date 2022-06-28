@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Alaa from "./Alaa/Alaa";
-import Ahmedibrahim from "./Ahmed-ibrahim/Ahmed_ibrahim"
+import Ahmedibrahim from "./Ahmed-ibrahim/Ahmed_ibrahim";
 function App() {
   return (
     <div className="App">
@@ -10,6 +10,7 @@ function App() {
         <h1> NourEldeen AbdElaaty</h1>
         <Alaa />
         <h1>Amr Elkoumy</h1>
+        <Ahmedibrahim></Ahmedibrahim>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -23,7 +24,6 @@ function App() {
           Learn React
         </a>
       </header>
-      <Ahmedibrahim></Ahmedibrahim>
     </div>
   );
 }
