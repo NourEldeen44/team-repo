@@ -2,6 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import Alaa from "./Alaa/Alaa";
 import Ahmedibrahim from "./Ahmed-ibrahim/Ahmed_ibrahim";
+import Mostafa from "./Mostafa/mostafa";
 function App() {
   return (
     <div className="App">
@@ -11,6 +12,7 @@ function App() {
         <Alaa />
         <h1>Amr Elkoumy</h1>
         <Ahmedibrahim></Ahmedibrahim>
+        <Mostafa />
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
