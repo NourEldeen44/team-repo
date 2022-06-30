@@ -8,7 +8,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {/* { 1-NourEldeen AbdElaaty } */}
         <h1> NourEldeen AbdElaaty</h1>
         <Alaa />
         <h1>Amr Elkoumy</h1>
